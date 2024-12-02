@@ -1,0 +1,1090 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"t",
+				"TeamColor"
+			],
+			[
+				"FromJson",
+				"FromJson<>"
+			],
+			[
+				"Re",
+				"ReadAllText"
+			],
+			[
+				"F",
+				"File"
+			],
+			[
+				"WriteAll",
+				"WriteAllText"
+			],
+			[
+				"Inv",
+				"InvokeRepeating"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Assets/Scripts/MainManager.cs",
+			"settings":
+			{
+				"buffer_size": 2023,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+			]
+		},
+		{
+			"file": "Assets/Scripts/DataManager.cs",
+			"settings":
+			{
+				"buffer_size": 393,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					5,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"BQAAAHoAAAAAAAAAewAAAAAAAAAAAAAAewAAAAAAAAB/AAAAAAAAAAAAAAB/AAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAhAAAAAAAAAAAAAAAewAAAAAAAAB7AAAAAAAAAAQAAAAgICAg",
+					"AQAAAAAAAAABAAAAegAAAAAAAAB6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					14,
+					1,
+					"reindent",
+					null,
+					"AQAAAHsAAAAAAAAAfwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAewAAAAAAAAB7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					16,
+					1,
+					"insert",
+					{
+						"characters": "public"
+					},
+					"BwAAAH8AAAAAAAAAgAAAAAAAAAAAAAAAgQAAAAAAAACBAAAAAAAAAAQAAAAgICAggAAAAAAAAACBAAAAAAAAAAAAAACBAAAAAAAAAIIAAAAAAAAAAAAAAIIAAAAAAAAAgwAAAAAAAAAAAAAAgwAAAAAAAACEAAAAAAAAAAAAAACEAAAAAAAAAIUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAfwAAAAAAAAB/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					17,
+					1,
+					"insert",
+					{
+						"characters": " stati"
+					},
+					"BgAAAIUAAAAAAAAAhgAAAAAAAAAAAAAAhgAAAAAAAACHAAAAAAAAAAAAAACHAAAAAAAAAIgAAAAAAAAAAAAAAIgAAAAAAAAAiQAAAAAAAAAAAAAAiQAAAAAAAACKAAAAAAAAAAAAAACKAAAAAAAAAIsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAhQAAAAAAAACFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"insert",
+					{
+						"characters": "c"
+					},
+					"AQAAAIsAAAAAAAAAjAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAiwAAAAAAAACLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": " Data"
+					},
+					"BQAAAIwAAAAAAAAAjQAAAAAAAAAAAAAAjQAAAAAAAACOAAAAAAAAAAAAAACOAAAAAAAAAI8AAAAAAAAAAAAAAI8AAAAAAAAAkAAAAAAAAAAAAAAAkAAAAAAAAACRAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAjAAAAAAAAACMAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					20,
+					1,
+					"insert",
+					{
+						"characters": "manager"
+					},
+					"BwAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAACTAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAJgAAAAAAAAAmQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					22,
+					8,
+					"left_delete",
+					null,
+					"CAAAAJgAAAAAAAAAmAAAAAAAAAABAAAAIJcAAAAAAAAAlwAAAAAAAAABAAAAcpYAAAAAAAAAlgAAAAAAAAABAAAAZZUAAAAAAAAAlQAAAAAAAAABAAAAZ5QAAAAAAAAAlAAAAAAAAAABAAAAYZMAAAAAAAAAkwAAAAAAAAABAAAAbpIAAAAAAAAAkgAAAAAAAAABAAAAYZEAAAAAAAAAkQAAAAAAAAABAAAAbQ",
+					"AQAAAAAAAAABAAAAmQAAAAAAAACZAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					23,
+					1,
+					"insert",
+					{
+						"characters": "Manager"
+					},
+					"BwAAAJEAAAAAAAAAkgAAAAAAAAAAAAAAkgAAAAAAAACTAAAAAAAAAAAAAACTAAAAAAAAAJQAAAAAAAAAAAAAAJQAAAAAAAAAlQAAAAAAAAAAAAAAlQAAAAAAAACWAAAAAAAAAAAAAACWAAAAAAAAAJcAAAAAAAAAAAAAAJcAAAAAAAAAmAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAkQAAAAAAAACRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"insert",
+					{
+						"characters": " i"
+					},
+					"AgAAAJgAAAAAAAAAmQAAAAAAAAAAAAAAmQAAAAAAAACaAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmAAAAAAAAACYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"insert",
+					{
+						"characters": "nstance"
+					},
+					"BwAAAJoAAAAAAAAAmwAAAAAAAAAAAAAAmwAAAAAAAACcAAAAAAAAAAAAAACcAAAAAAAAAJ0AAAAAAAAAAAAAAJ0AAAAAAAAAngAAAAAAAAAAAAAAngAAAAAAAACfAAAAAAAAAAAAAACfAAAAAAAAAKAAAAAAAAAAAAAAAKAAAAAAAAAAoQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAmgAAAAAAAACaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					26,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAKEAAAAAAAAAogAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAoQAAAAAAAAChAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					1,
+					"left_delete",
+					null,
+					"AQAAAKcAAAAAAAAApwAAAAAAAACmAAAAIC8vIFN0YXJ0IGlzIGNhbGxlZCBiZWZvcmUgdGhlIGZpcnN0IGZyYW1lIHVwZGF0ZQogICAgdm9pZCBTdGFydCgpCiAgICB7CiAgICAgICAgCiAgICB9CgogICAgLy8gVXBkYXRlIGlzIGNhbGxlZCBvbmNlIHBlciBmcmFtZQogICAgdm9pZCBVcGRhdGUoKQogICAgewogICAgICAgIAogICAgfQ",
+					"AQAAAAAAAAABAAAApwAAAAAAAABNAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					32,
+					1,
+					"insert",
+					{
+						"characters": "privaste"
+					},
+					"CAAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAACpAAAAAAAAAKoAAAAAAAAAAAAAAKoAAAAAAAAAqwAAAAAAAAAAAAAAqwAAAAAAAACsAAAAAAAAAAAAAACsAAAAAAAAAK0AAAAAAAAAAAAAAK0AAAAAAAAArgAAAAAAAAAAAAAArgAAAAAAAACvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					8,
+					"left_delete",
+					null,
+					"CAAAAK4AAAAAAAAArgAAAAAAAAABAAAAZa0AAAAAAAAArQAAAAAAAAABAAAAdKwAAAAAAAAArAAAAAAAAAABAAAAc6sAAAAAAAAAqwAAAAAAAAABAAAAYaoAAAAAAAAAqgAAAAAAAAABAAAAdqkAAAAAAAAAqQAAAAAAAAABAAAAaagAAAAAAAAAqAAAAAAAAAABAAAAcqcAAAAAAAAApwAAAAAAAAABAAAAcA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"insert",
+					{
+						"characters": " p"
+					},
+					"AgAAAKcAAAAAAAAAqAAAAAAAAAAAAAAAqAAAAAAAAACpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAApwAAAAAAAACnAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					35,
+					1,
+					"insert",
+					{
+						"characters": "rivate"
+					},
+					"BgAAAKkAAAAAAAAAqgAAAAAAAAAAAAAAqgAAAAAAAACrAAAAAAAAAAAAAACrAAAAAAAAAKwAAAAAAAAAAAAAAKwAAAAAAAAArQAAAAAAAAAAAAAArQAAAAAAAACuAAAAAAAAAAAAAACuAAAAAAAAAK8AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAqQAAAAAAAACpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"insert",
+					{
+						"characters": " void"
+					},
+					"BQAAAK8AAAAAAAAAsAAAAAAAAAAAAAAAsAAAAAAAAACxAAAAAAAAAAAAAACxAAAAAAAAALIAAAAAAAAAAAAAALIAAAAAAAAAswAAAAAAAAAAAAAAswAAAAAAAAC0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAArwAAAAAAAACvAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					37,
+					1,
+					"insert",
+					{
+						"characters": " Awake"
+					},
+					"BgAAALQAAAAAAAAAtQAAAAAAAAAAAAAAtQAAAAAAAAC2AAAAAAAAAAAAAAC2AAAAAAAAALcAAAAAAAAAAAAAALcAAAAAAAAAuAAAAAAAAAAAAAAAuAAAAAAAAAC5AAAAAAAAAAAAAAC5AAAAAAAAALoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAtAAAAAAAAAC0AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAALoAAAAAAAAAvAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAugAAAAAAAAC6AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAALwAAAAAAAAAvQAAAAAAAAAAAAAAvQAAAAAAAADBAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAvAAAAAAAAAC8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					41,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAMEAAAAAAAAAwwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwQAAAAAAAADBAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMgAAAAAAAAAAAAAAMgAAAAAAAAAzAAAAAAAAAAAAAAAwwAAAAAAAADDAAAAAAAAAAQAAAAgICAgwwAAAAAAAADLAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": "instance"
+					},
+					"CAAAAMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAADNAAAAAAAAAM4AAAAAAAAAAAAAAM4AAAAAAAAAzwAAAAAAAAAAAAAAzwAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAANEAAAAAAAAAAAAAANEAAAAAAAAA0gAAAAAAAAAAAAAA0gAAAAAAAADTAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					1,
+					"insert",
+					{
+						"characters": " ="
+					},
+					"AgAAANMAAAAAAAAA1AAAAAAAAAAAAAAA1AAAAAAAAADVAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA0wAAAAAAAADTAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": " this;"
+					},
+					"BgAAANUAAAAAAAAA1gAAAAAAAAAAAAAA1gAAAAAAAADXAAAAAAAAAAAAAADXAAAAAAAAANgAAAAAAAAAAAAAANgAAAAAAAAA2QAAAAAAAAAAAAAA2QAAAAAAAADaAAAAAAAAAAAAAADaAAAAAAAAANsAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1QAAAAAAAADVAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":0,\"session_name\":\"OmniSharp\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": true,
+						"query_change_id":
+						[
+							36,
+							45,
+							6
+						],
+						"trigger": "AOT"
+					},
+					"AQAAANsAAAAAAAAA3gAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					3,
+					"left_delete",
+					null,
+					"AwAAAN0AAAAAAAAA3QAAAAAAAAABAAAAVNwAAAAAAAAA3AAAAAAAAAABAAAAT9sAAAAAAAAA2wAAAAAAAAABAAAAQQ",
+					"AQAAAAAAAAABAAAA3gAAAAAAAADeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					48,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAANsAAAAAAAAA3AAAAAAAAAAAAAAA3AAAAAAAAADkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2wAAAAAAAADbAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AwAAAOQAAAAAAAAA5QAAAAAAAAAAAAAA5QAAAAAAAADtAAAAAAAAAAAAAADcAAAAAAAAANwAAAAAAAAACAAAACAgICAgICAg",
+					"AQAAAAAAAAABAAAA5AAAAAAAAADkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": "DontDes"
+					},
+					"BwAAAOUAAAAAAAAA5gAAAAAAAAAAAAAA5gAAAAAAAADnAAAAAAAAAAAAAADnAAAAAAAAAOgAAAAAAAAAAAAAAOgAAAAAAAAA6QAAAAAAAAAAAAAA6QAAAAAAAADqAAAAAAAAAAAAAADqAAAAAAAAAOsAAAAAAAAAAAAAAOsAAAAAAAAA7AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA5QAAAAAAAADlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert",
+					{
+						"characters": "troyOnL"
+					},
+					"BwAAAOwAAAAAAAAA7QAAAAAAAAAAAAAA7QAAAAAAAADuAAAAAAAAAAAAAADuAAAAAAAAAO8AAAAAAAAAAAAAAO8AAAAAAAAA8AAAAAAAAAAAAAAA8AAAAAAAAADxAAAAAAAAAAAAAADxAAAAAAAAAPIAAAAAAAAAAAAAAPIAAAAAAAAA8wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA7AAAAAAAAADsAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "oad"
+					},
+					"AwAAAPMAAAAAAAAA9AAAAAAAAAAAAAAA9AAAAAAAAAD1AAAAAAAAAAAAAAD1AAAAAAAAAPYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA8wAAAAAAAADzAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAPYAAAAAAAAA+AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9gAAAAAAAAD2AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "gameObjec"
+					},
+					"CQAAAPcAAAAAAAAA+AAAAAAAAAAAAAAA+AAAAAAAAAD5AAAAAAAAAAAAAAD5AAAAAAAAAPoAAAAAAAAAAAAAAPoAAAAAAAAA+wAAAAAAAAAAAAAA+wAAAAAAAAD8AAAAAAAAAAAAAAD8AAAAAAAAAP0AAAAAAAAAAAAAAP0AAAAAAAAA/gAAAAAAAAAAAAAA/gAAAAAAAAD/AAAAAAAAAAAAAAD/AAAAAAAAAAABAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					55,
+					1,
+					"insert",
+					{
+						"characters": "t"
+					},
+					"AQAAAAABAAAAAAAAAQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					57,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAAIBAAAAAAAAAwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAgEAAAAAAAACAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					59,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAAkBAAAAAAAACgEAAAAAAAAAAAAACgEAAAAAAAAOAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAACQEAAAAAAAAJAQAAAAAAAAAAAAAAIHpA"
+				],
+				[
+					64,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"BAAAAMIAAAAAAAAAwwAAAAAAAAAAAAAAwwAAAAAAAADHAAAAAAAAAAAAAADHAAAAAAAAAMsAAAAAAAAAAAAAABMBAAAAAAAAEwEAAAAAAAAEAAAAICAgIA",
+					"AQAAAAAAAAABAAAAwgAAAAAAAADCAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					65,
+					1,
+					"insert",
+					{
+						"characters": "if"
+					},
+					"AgAAAMsAAAAAAAAAzAAAAAAAAAAAAAAAzAAAAAAAAADNAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAywAAAAAAAADLAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					66,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAM0AAAAAAAAAzgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzQAAAAAAAADNAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					67,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAM4AAAAAAAAA0AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzgAAAAAAAADOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					68,
+					1,
+					"insert",
+					{
+						"characters": "Da"
+					},
+					"AgAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					69,
+					2,
+					"left_delete",
+					null,
+					"AgAAANAAAAAAAAAA0AAAAAAAAAABAAAAYc8AAAAAAAAAzwAAAAAAAAABAAAARA",
+					"AQAAAAAAAAABAAAA0QAAAAAAAADRAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					70,
+					1,
+					"insert",
+					{
+						"characters": "instance"
+					},
+					"CAAAAM8AAAAAAAAA0AAAAAAAAAAAAAAA0AAAAAAAAADRAAAAAAAAAAAAAADRAAAAAAAAANIAAAAAAAAAAAAAANIAAAAAAAAA0wAAAAAAAAAAAAAA0wAAAAAAAADUAAAAAAAAAAAAAADUAAAAAAAAANUAAAAAAAAAAAAAANUAAAAAAAAA1gAAAAAAAAAAAAAA1gAAAAAAAADXAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAzwAAAAAAAADPAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					71,
+					1,
+					"insert",
+					{
+						"characters": " =="
+					},
+					"AwAAANcAAAAAAAAA2AAAAAAAAAAAAAAA2AAAAAAAAADZAAAAAAAAAAAAAADZAAAAAAAAANoAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA1wAAAAAAAADXAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					72,
+					1,
+					"insert",
+					{
+						"characters": " null"
+					},
+					"BQAAANoAAAAAAAAA2wAAAAAAAAAAAAAA2wAAAAAAAADcAAAAAAAAAAAAAADcAAAAAAAAAN0AAAAAAAAAAAAAAN0AAAAAAAAA3gAAAAAAAAAAAAAA3gAAAAAAAADfAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA2gAAAAAAAADaAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					74,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAOAAAAAAAAAA4QAAAAAAAAAAAAAA4QAAAAAAAADpAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA4AAAAAAAAADgAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					75,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAOkAAAAAAAAA6wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6QAAAAAAAADpAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					76,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAOoAAAAAAAAA6wAAAAAAAAAAAAAA6wAAAAAAAADzAAAAAAAAAAAAAADzAAAAAAAAAPQAAAAAAAAAAAAAAPQAAAAAAAAA/AAAAAAAAAAAAAAA6wAAAAAAAADrAAAAAAAAAAgAAAAgICAgICAgIOsAAAAAAAAA9wAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA6gAAAAAAAADqAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					82,
+					1,
+					"paste",
+					null,
+					"AQAAAPcAAAAAAAAALwEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAA9wAAAAAAAAD3AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					86,
+					1,
+					"insert",
+					{
+						"characters": "\t"
+					},
+					"AQAAABEBAAAAAAAAFQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAEQEAAAAAAAARAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					89,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEYBAAAAAAAARgEAAAAAAAA4AAAAaW5zdGFuY2UgPSB0aGlzOwoKICAgICAgICBEb250RGVzdHJveU9uTG9hZChnYW1lT2JqZWN0KTs",
+					"AQAAAAAAAAABAAAARgEAAAAAAAB+AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					90,
+					1,
+					"insert",
+					{
+						"characters": "else"
+					},
+					"BAAAAEYBAAAAAAAARwEAAAAAAAAAAAAARwEAAAAAAABIAQAAAAAAAAAAAABIAQAAAAAAAEkBAAAAAAAAAAAAAEkBAAAAAAAASgEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgEAAAAAAABGAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					91,
+					1,
+					"insert_completion",
+					{
+						"completion": "lsp_select_completion {\"index\":873,\"session_name\":\"OmniSharp\"}",
+						"format": "command",
+						"keep_prefix": true,
+						"must_insert": false,
+						"query_change_id":
+						[
+							76,
+							90,
+							3
+						],
+						"trigger": "else"
+					},
+					"AwAAAEkBAAAAAAAASQEAAAAAAAABAAAAZUYBAAAAAAAARgEAAAAAAAADAAAAZWxzRgEAAAAAAABKAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					92,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAEoBAAAAAAAATAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					95,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AgAAAEoBAAAAAAAASwEAAAAAAAAAAAAASwEAAAAAAABTAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAASgEAAAAAAABKAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					97,
+					1,
+					"run_macro_file",
+					{
+						"file": "res://Packages/Default/Add Line in Braces.sublime-macro"
+					},
+					"BgAAAFQBAAAAAAAAVQEAAAAAAAAAAAAAVQEAAAAAAABdAQAAAAAAAAAAAABdAQAAAAAAAF4BAAAAAAAAAAAAAF4BAAAAAAAAZgEAAAAAAAAAAAAAVQEAAAAAAABVAQAAAAAAAAgAAAAgICAgICAgIFUBAAAAAAAAYQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVAEAAAAAAABUAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					98,
+					1,
+					"insert",
+					{
+						"characters": "Destroy"
+					},
+					"BwAAAGEBAAAAAAAAYgEAAAAAAAAAAAAAYgEAAAAAAABjAQAAAAAAAAAAAABjAQAAAAAAAGQBAAAAAAAAAAAAAGQBAAAAAAAAZQEAAAAAAAAAAAAAZQEAAAAAAABmAQAAAAAAAAAAAABmAQAAAAAAAGcBAAAAAAAAAAAAAGcBAAAAAAAAaAEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAYQEAAAAAAABhAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					99,
+					1,
+					"insert_snippet",
+					{
+						"contents": "($0)"
+					},
+					"AQAAAGgBAAAAAAAAagEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaAEAAAAAAABoAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					100,
+					1,
+					"insert",
+					{
+						"characters": "gameObje"
+					},
+					"CAAAAGkBAAAAAAAAagEAAAAAAAAAAAAAagEAAAAAAABrAQAAAAAAAAAAAABrAQAAAAAAAGwBAAAAAAAAAAAAAGwBAAAAAAAAbQEAAAAAAAAAAAAAbQEAAAAAAABuAQAAAAAAAAAAAABuAQAAAAAAAG8BAAAAAAAAAAAAAG8BAAAAAAAAcAEAAAAAAAAAAAAAcAEAAAAAAABxAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAaQEAAAAAAABpAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					101,
+					1,
+					"insert",
+					{
+						"characters": "ct"
+					},
+					"AgAAAHEBAAAAAAAAcgEAAAAAAAAAAAAAcgEAAAAAAABzAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAcQEAAAAAAABxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					103,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAHQBAAAAAAAAdQEAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAdAEAAAAAAAB0AQAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: dele",
+				"Package Control: Disable Package"
+			],
+			[
+				"Package Control: deb",
+				"Package Control: Disable Debug Mode"
+			],
+			[
+				"Package Control: de",
+				"Package Control: Enable Debug Mode"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: debug",
+				"Package Control: Disable Debug Mode"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"en",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"Preferences: LSP-OmniSharp Settings",
+				"Preferences: LSP-OmniSharp Settings"
+			],
+			[
+				"Ena",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Contro",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/maverick/Desktop/Create with Code/Data-Persistence-Project"
+	],
+	"file_history":
+	[
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/ResourcePile.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/MainManager.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/UI/UIMainScene.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/MenuUIHandler.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Unit.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/TransporterUnit.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Building.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Base.cs",
+		"/home/maverick/Desktop/Create with Code/Data-Persistence-Project/Assets/Scripts/MainManager.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Library/PackageCache/com.unity.render-pipelines.core@14.0.11/Runtime/Debugging/DebugUpdater.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Helpers/ResourceItem.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Helpers/ResourceDatabase.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Helpers/ColorPicker.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Helpers/ColorHandler.cs",
+		"/home/maverick/Desktop/Create with Code/Jr-Programmer-Repo/Assets/Scripts/Helpers/AnimatorHandler.cs",
+		"/home/maverick/Desktop/Create with Code/Debugging Challenge/Assets/CongratScript.cs",
+		"/home/maverick/Desktop/Create with Code/Debugging Challenge/",
+		"/home/maverick/Desktop/Create with Code/My project/Assets/Scripts/CollideDestroy.cs",
+		"/home/maverick/Desktop/Create with Code/My project/Assets/Scripts/NoteDirection.cs",
+		"/home/maverick/Desktop/Create with Code/My project/Assets/Scripts/Game Manager.cs",
+		"/home/maverick/Desktop/Create with Code/My project/Assets/Counter/Counter.cs",
+		"/home/maverick/Downloads/avast_free_antivirus_setup_online.exe",
+		"/home/maverick/Desktop/Create with Code/Prototype 1/Assets/Scripts/PlayerController.cs",
+		"/home/maverick/Downloads/MBSetup.exe",
+		"/home/maverick/Desktop/Create with Code/Prototype 2/Assets/Scripts/ObjectPooler.cs",
+		"/home/maverick/Desktop/Create with Code/Prototype 2/Assets/Scripts/DetectCollisions.cs",
+		"/home/maverick/Desktop/Create with Code/Prototype 2/Assets/Scripts/DestroyOutOfBounds.cs",
+		"/home/maverick/Desktop/Create with Code/Prototype 2/Assets/Scripts/PlayerController.cs",
+		"/home/maverick/Desktop/Create with Code/Prototype 2/",
+		"/home/maverick/Desktop/Create with Code/Prototype 1/Assets/Scripts/FollowPlayer.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/SpawnManager.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/UpRotation.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/Shooter.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/GameManager.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/FollowPlayer.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/MissilePath.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/DestroyImpact.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/EnemyHealth.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/RotateBlade.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/ShootBullet.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/PlayerController.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Asset Store/ShootingSound/ReadMe.txt",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/MissileFollow.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/NewBehaviourScript.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Scripts/EnemyAnimation.cs",
+		"/home/maverick/Desktop/Coma/Personal Prototype/Assets/Asset Store/DoubleL/Demo/DemoCameraController.cs",
+		"/home/maverick/Desktop/Working Title (Coma)/Personal Prototype/Assets/Scripts/PlayerController.cs",
+		"/$metadata$/Project/Assembly-CSharp/Assembly/UnityEngine/PhysicsModule/Symbol/UnityEngine/Rigidbody.cs",
+		"/home/maverick/Desktop/Working Title (Coma)/Personal Prototype/Assets/Scripts/FollowPlayer.cs",
+		"/home/maverick/Desktop/Working Title (\"Coma\")/Personal Prototype/Assets/Scripts/Test.cs",
+		"/home/maverick/Desktop/Working Title (Coma)/Personal Prototype/Assets/Scripts/SpawnManager.cs",
+		"/home/maverick/Desktop/Working Title (Coma)/Personal Prototype/Assets/Scripts/Test.cs",
+		"/home/maverick/.config/sublime-text/Packages/User/untitled.sublime-build",
+		"/home/maverick/.config/sublime-text/Packages/User/c_Sharp"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Assets/Scripts/MainManager.cs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2023,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ". ",
+									"registration_id": "4d2dc200-3ed6-4e5f-bcd7-1f9d68a4851a",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "OmniSharp"
+								},
+								{
+									"characters": ". ",
+									"registration_id": "4d2dc200-3ed6-4e5f-bcd7-1f9d68a4851a",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "OmniSharp"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/maverick/Desktop/Create%20with%20Code/Data-Persistence-Project/Assets/Scripts/MainManager.cs",
+							"show_definitions": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Assets/Scripts/DataManager.cs",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 393,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								389,
+								389
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								}
+							],
+							"lsp_active": true,
+							"lsp_uri": "file:///home/maverick/Desktop/Create%20with%20Code/Data-Persistence-Project/Assets/Scripts/DataManager.cs",
+							"show_definitions": false,
+							"syntax": "Packages/C#/C#.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/untitled.sublime-build",
+	"project": "Data-Persistence-Project.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 469.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
