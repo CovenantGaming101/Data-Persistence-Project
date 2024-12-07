@@ -6,10 +6,11 @@ using TMPro;
 public class DataManager : MonoBehaviour
 {
     public static DataManager instance;
+    private UsernameContainer usernameContainer;
 
     public string usernameData;
+    public string bestScoreName = "default";
     public int userScoreData;
-    public Dictionary<string, int> highScore = new Dictionary<string, int>();
 
     private void Awake()
     {
@@ -25,10 +26,34 @@ public class DataManager : MonoBehaviour
         }
     }
 
-    public void UserData(TextMeshProUGUI nameData)
+    private void Start()
+    {
+        usernameContainer = GameObject.Find("Canvas").GetComponent<UsernameContainer>();
+    }
+
+    public void UserData()
+    {
+        Debug.Log($"Your name is {bestScoreName}");
+        BestScore();
+        Debug.Log("The correct code was run...Right?");
+    }
+
+    public void OtherUserData(TextMeshProUGUI nameData)
     {
         usernameData = nameData.text;
-        highScore.Add(usernameData, userScoreData);
+        Debug.Log($"Your name is {usernameData}");
+        BestScore();
+        Debug.Log("Ah. The wrong code was run.");
+    }
+
+    public void ScoreData(int points)
+    {
+        userScoreData = points;
+    }
+
+    public void BestScore()
+    {
+        usernameContainer.nameScoreDisplay.text += $"Best Score: {bestScoreName} {userScoreData}";
     }
 
 }

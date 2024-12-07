@@ -5,10 +5,18 @@ using TMPro;
 
 public class UsernameContainer : MonoBehaviour
 {
-    public static TextMeshProUGUI username;
+    public TextMeshProUGUI username;
+    public TextMeshProUGUI nameScoreDisplay;
 
-    private void UserEnter()
+    public void UserEnter()
     {
-
+        if (username.text == DataManager.instance.bestScoreName)
+        {
+            DataManager.instance.UserData();
+        }
+        else
+        {
+            DataManager.instance.OtherUserData(username);
+        }
     }
 }

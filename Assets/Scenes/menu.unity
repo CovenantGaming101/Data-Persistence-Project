@@ -425,13 +425,13 @@ MonoBehaviour:
   m_OnEndEdit:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1819691271}
-        m_TargetAssemblyTypeName: 
-        m_MethodName: 
+      - m_Target: {fileID: 1819691272}
+        m_TargetAssemblyTypeName: UsernameContainer, Assembly-CSharp
+        m_MethodName: UserEnter
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
@@ -541,6 +541,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   usernameData: 
+  bestScoreName: 
   userScoreData: 0
 --- !u!4 &546104825
 Transform:
@@ -691,7 +692,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1065016441}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1819691277}
+        m_TargetAssemblyTypeName: SceneMovement, Assembly-CSharp
+        m_MethodName: StartGame
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1065016441
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -742,7 +755,7 @@ GameObject:
   - component: {fileID: 1123846159}
   - component: {fileID: 1123846158}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: High Score Display
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -756,7 +769,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1123846156}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -787,9 +800,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Best Score
-
-'
+  m_text: 
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1544,6 +1555,7 @@ GameObject:
   - component: {fileID: 1819691274}
   - component: {fileID: 1819691273}
   - component: {fileID: 1819691272}
+  - component: {fileID: 1819691277}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1563,6 +1575,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 20cb24770cc6b956587146fe6bd7b439, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  username: {fileID: 2127913977}
+  nameScoreDisplay: {fileID: 1123846158}
 --- !u!114 &1819691273
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1649,6 +1663,18 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1819691277
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1819691271}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a550be38e0402fc9c9f1448d145e6d53, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2127913975
 GameObject:
   m_ObjectHideFlags: 0

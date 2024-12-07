@@ -11,6 +11,7 @@ public class MainManager : MonoBehaviour
     public Rigidbody Ball;
 
     public Text ScoreText;
+    public Text highScoreText;
     public GameObject GameOverText;
     
     private bool m_Started = false;
@@ -59,6 +60,10 @@ public class MainManager : MonoBehaviour
             {
                 SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
             }
+            else if (Input.GetKeyDown(KeyCode.Backspace))
+            {
+                SceneManager.LoadScene(0);
+            }
         }
     }
 
@@ -72,5 +77,12 @@ public class MainManager : MonoBehaviour
     {
         m_GameOver = true;
         GameOverText.SetActive(true);
+
+        if (DataManager.instance != null && m_Points > DataManager.instance.userScoreData)
+        {
+            DataManager.instance.ScoreData(m_Points);
+            DataManager.instance.bestScoreName = DataManager.instance.usernameData;
+            highScoreText.text = $"Best Score : {DataManager.instance.bestScoreName} : {DataManager.instance.userScoreData}";
+        }
     }
 }
