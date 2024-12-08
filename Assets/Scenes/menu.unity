@@ -541,7 +541,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   usernameData: 
-  bestScoreName: 
+  bestScoreName: default
   userScoreData: 0
 --- !u!4 &546104825
 Transform:
