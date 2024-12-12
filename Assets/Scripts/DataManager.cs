@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 using TMPro;
 
 public class DataManager : MonoBehaviour
@@ -40,7 +41,7 @@ public class DataManager : MonoBehaviour
         Debug.Log("UserData was run!");
     }
 
-    public void OtherUserData(TextMeshProUGUI nameData)
+    public void OtherUserData(Text nameData)
     {
         usernameData = nameData.text;
         Debug.Log($"Your name is {usernameData}");
@@ -61,7 +62,14 @@ public class DataManager : MonoBehaviour
         Debug.Log($"Best Score Name: {bestScoreName}, Best Score Value: {userScoreData}");
     
         // Concatenate properly
-        usernameContainer.nameScoreDisplay.text = $"Best Score: {bestScoreName} {userScoreData}";
+        if (usernameContainer.nameScoreDisplay != null)
+        {
+            usernameContainer.nameScoreDisplay.text = $"Best Score: {bestScoreName} {userScoreData}";
+        }
+        else
+        {
+            Debug.LogError("nameScoreDisplay has returned as null!");
+        } 
     }
 
 
